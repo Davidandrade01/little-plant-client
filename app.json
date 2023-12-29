@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "LpsClient",
+    "slug": "LpsClient",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/lpslogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#8ABF17"
+    },
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package":"pt.ecomerce.LittlePlantShop",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
