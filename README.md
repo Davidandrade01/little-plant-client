@@ -82,11 +82,11 @@ Biblioteca | Framework | Recursos
 - [x] Login/Logout
 - [ ] Favoritos (por desenvolver)
 - [x] Bag/carrinho
-- [x] pop-up (modal) do carrinho
+- [x]  do carrinho
 - [x] Adição e remoção de itens
-- [x] Histórico de compras(por desenvolver)
+- [x] Histórico de compras
 - [x] Carrossel com cards dos produtos
-- [x] Modal do carrossel com detalhes dos produtos(Preço, marca, detalhes)
+- [x] detalhes dos produtos(Preço, marca, detalhes)
 - [x] Pagamento de compras com Paypal
 
 
@@ -135,7 +135,7 @@ onSubmit:async(formValue)=>{
 
 - [x] Checkout(preenchimento de endereço)
 - [x] Pagamento (Conexão com o **stripe**) 
-- [x ] Conclusão do pedido com visualização dos itens comprados
+- [x] Conclusão do pedido com visualização dos itens comprados
 
 
 ## Api´s
