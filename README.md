@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="100%" src="./public/image/logoBackGround.png"> 
+    <img width="100%" src="./assets/lpslogo.png"> 
 </p>
 
 #### Menu
@@ -26,7 +26,7 @@
 
 # Nota
 <p>
-    O **Game Store** é um **e-commerce** em desenvolvimento, com códigos robustos . Nesta plataforma, os usuários têm a capacidade de comprar jogos listados em sua plataforma de consoles ou facilmente encontrá-los usando a barra de pesquisa.</P>
+    O **Little Plant Store** é um ** App de e-commerce** em desenvolvimento, com React Native . Nesta plataforma, os usuários têm a capacidade de comprar plantas listados em sua plataforma de consoles ou facilmente encontrá-los usando a barra de pesquisa.</P>
     
 <p>Durante toda a experiência de navegação, os usuários podem acessar seu perfil e os dados de compras, que são armazenados localmente. Esses dados são encapsulados por meio de **Auth Context** e posteriormente reconhecidos e armazenados em um banco de dados (Strapi). Na plataforma **Strapi**, foram construídas coleções de dados tanto para produtos quanto para regras autenticadas e públicas relacionadas à configuração de perfis de conteúdo individual.</p>
 
@@ -42,7 +42,11 @@
 # Vídeo
 
 
-https://github.com/Davidandrade01/GameStore/assets/66143693/7ed83ec5-0f15-4b1d-9b63-2fb1d4664e60
+
+
+https://github.com/Davidandrade01/little-plant-client/assets/66143693/96f1bd89-09c5-4b5e-a61b-2b72e3cf27fb
+
+
 
 
 
@@ -80,7 +84,7 @@ Biblioteca | Framework | Recursos
 - [x] Bag/carrinho
 - [x] pop-up (modal) do carrinho
 - [x] Adição e remoção de itens
-- [ ] Histórico de compras(por desenvolver)
+- [x] Histórico de compras(por desenvolver)
 - [x] Carrossel com cards dos produtos
 - [x] Modal do carrossel com detalhes dos produtos(Preço, marca, detalhes)
 - [x] Pagamento de compras com Paypal
@@ -130,8 +134,8 @@ onSubmit:async(formValue)=>{
 
 
 - [x] Checkout(preenchimento de endereço)
-- [] Pagamento (Conexão com o **pay-pal**) ( página por desenvolver)
-- [ ] Conclusão do pedido com visualização dos itens comprados
+- [x] Pagamento (Conexão com o **stripe**) 
+- [x ] Conclusão do pedido com visualização dos itens comprados
 
 
 ## Api´s
