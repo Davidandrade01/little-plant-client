@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="100%" src="./assets/lpslogo.png"> 
+    <img width="50%" src="./assets/lpslogo.png"> 
 </p>
 
 #### Menu
