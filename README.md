@@ -36,7 +36,7 @@
 
 <P> A aplicação web proporciona uma experiência intuitiva aos usuários, incluindo registro/login, alterações de perfil, busca de itens (jogos), compra, gerenciamento do carrinho de compras (**CRUD**), seleção da direção de entrega do produto e integração com a API de pagamento. Tudo isso é projetado com base em boas práticas de **UX**, seguindo as convenções mencionadas por **Steve Krug** e mantendo hierarquias visuais claras. </P>
 
-<P> O código da aplicação está organizado em componentes e hooks, com criação de rotas de API renderizadas usando **React** e **Next Js** como framework, e os estilos são divididos e gerenciados com **Sass**. Além disso, a integração da API do **Paypal** permite uma variedade de opções de pagamento e o processamento de pedidos. </P>
+<P> O código da aplicação está organizado em componentes e hooks, com criação de rotas de API renderizadas usando **React** e **Next Js** como framework, e os estilos são divididos e gerenciados com **Sass**. Além disso, a integração da API do **stripe** permite uma variedade de opções de pagamento e o processamento de pedidos. </P>
 
 
 # Vídeo
@@ -72,7 +72,7 @@ Biblioteca | Framework | Recursos
   * **Strapi** 
 
 * Integração com Api de pagamento
-  * **Pay-pal**
+  * **stripe**
 
 
 ## Seções desenvolvidas
